@@ -21,9 +21,9 @@ class Tos extends React.Component {
                             Steemit.com and any other products or services that
                             link to these Terms (&ldquo;
                         </span>
-                        <span className="c1 c2">Steemit</span>
+                        <span className="c1 c2">CNsteem</span>
                         <span className="c1">
-                            &rdquo;). Steemit is provided by Steemit, Inc.
+                            &rdquo;). CNsteem is provided by skenan.
                             (&ldquo;
                         </span>
                         <span className="c1 c2">Steemit</span>

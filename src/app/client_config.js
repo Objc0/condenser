@@ -42,10 +42,7 @@ export const SHARE_IMAGE =
     'https://' + APP_DOMAIN + '/images/steemit-share.png';
 export const TWITTER_SHARE_IMAGE =
     'https://' + APP_DOMAIN + '/images/steemit-twshare.png';
-export const SITE_DESCRIPTION =
-    'Steemit is a social media platform where everyone gets paid for ' +
-    'creating and curating content. It leverages a robust digital points system, called Steem, that ' +
-    'supports real value for digital rewards through market price discovery and liquidity';
+export const SITE_DESCRIPTION = 'CNsteem是Steemit的中文版，在这里你可以通过发表和审核文章可以赚取Steem加密货币。';
 
 // various
 export const SUPPORT_EMAIL = 'support@' + APP_DOMAIN;
