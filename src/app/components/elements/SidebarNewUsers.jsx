@@ -19,7 +19,7 @@ const SidebarNewUsers = () => (
                 </li>
                 <li className="c-sidebar__list-item">
                     <a className="c-sidebar__link" href="/faq.html">
-                        FAQs
+                        FAQs : Contact with cnsteem@gmail.com
                     </a>
                 </li>
                 <li className="c-sidebar__list-item">
